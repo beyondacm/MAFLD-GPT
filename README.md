@@ -1,2 +1,2 @@
 # NAFLD-GPT
-The source code and dataset
+The source code and dataset of NAFLD-GPT
