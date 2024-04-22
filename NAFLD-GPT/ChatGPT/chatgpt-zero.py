@@ -7,17 +7,9 @@ import random
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
 
-keys = ['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', \
-        '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', \
-        # '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', \
-        # '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', \
-        # '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', \
-        # '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', \
-        # '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', \
-        # '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'
-        ]
+keys = []
 
-openai.api_key  = "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"
+openai.api_key  = "sk-XXX"
 
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
